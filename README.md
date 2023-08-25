@@ -5,6 +5,10 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Adonis-TG1/Cloud-SOC/blob/main/README.md))
 
+ 
+- <b>Python Projects</b>
+  - [Basic Encryption / Decryption Machine](https://github.com/Adonis-TG1/Basic-Encryption-Decryption-Machine)
+
 
 
 
